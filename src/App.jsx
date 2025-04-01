@@ -50,6 +50,7 @@ export default function AttendanceCalculator() {
           <Calendar className="h-6 w-6 text-primary" />
           Attendance Calculator
         </h2>
+        <p className="text-center text-neutral-500 text-sm p-2">Will you reach the criteria? Or an official mail reaches your parents? Find out!</p>
 
         {/* Current attendance display */}
         <div className="mb-6 bg-slate-50 p-4 rounded-xl">
